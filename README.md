@@ -19,3 +19,8 @@ npm install
 npm run dev
 爬虫：
 streamlit run web/main.py
+
+爬虫借用zhouyi207大佬的WeiBoCrawler
+
+链接：https://github.com/zhouyi207/WeiBoCrawler
+
