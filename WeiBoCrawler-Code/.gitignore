@@ -1,0 +1,16 @@
+*.pyc
+*.json
+
+
+demo.*
+test.*
+test_*
+
+# uv.lock
+# pyproject.toml
+# .python-version
+
+.vscode/
+app.log
+
+数据库.db
